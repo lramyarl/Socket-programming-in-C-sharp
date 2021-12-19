@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Chat_programingModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_AllUsers">
+    <Key>
+      <PropertyRef Name="User_ID" />
+    </Key>
+    <Property Name="User_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_username" Type="nvarchar" MaxLength="50" />
+    <Property Name="User_ipPport" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="Chat_programingModelStoreContainer">
+    <EntitySet Name="tbl_AllUsers" EntityType="Self.tbl_AllUsers" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

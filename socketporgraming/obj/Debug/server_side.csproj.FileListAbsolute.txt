@@ -1,0 +1,16 @@
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\bin\Debug\socketporgraming.exe.config
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\bin\Debug\socketporgraming.exe
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\bin\Debug\socketporgraming.pdb
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\bin\Debug\SimpleTcp.dll
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\bin\Debug\SimpleTcp.xml
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\obj\Debug\socketporgraming.Server.resources
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\obj\Debug\socketporgraming.Properties.Resources.resources
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\obj\Debug\server_side.csproj.GenerateResource.cache
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\obj\Debug\server_side.csproj.CoreCompileInputs.cache
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\obj\Debug\server_side.csproj.CopyComplete
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\obj\Debug\socketporgraming.exe
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\obj\Debug\socketporgraming.pdb
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\bin\Debug\EntityFramework.dll
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\bin\Debug\EntityFramework.xml
+C:\Users\Ramyar\source\repos\socketporgraming\socketporgraming\bin\Debug\EntityFramework.SqlServer.xml

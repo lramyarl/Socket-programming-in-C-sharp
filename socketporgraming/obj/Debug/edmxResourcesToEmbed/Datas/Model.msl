@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Chat_programingModelStoreContainer" CdmEntityContainer="Chat_programingEntities2">
+    <EntitySetMapping Name="tbl_AllUsers">
+      <EntityTypeMapping TypeName="Chat_programingModel.tbl_AllUsers">
+        <MappingFragment StoreEntitySet="tbl_AllUsers">
+          <ScalarProperty Name="User_ID" ColumnName="User_ID" />
+          <ScalarProperty Name="User_username" ColumnName="User_username" />
+          <ScalarProperty Name="User_ipPport" ColumnName="User_ipPport" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

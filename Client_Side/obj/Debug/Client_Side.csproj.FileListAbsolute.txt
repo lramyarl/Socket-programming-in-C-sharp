@@ -1,0 +1,12 @@
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\bin\Debug\Client_Side.exe.config
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\bin\Debug\Client_Side.exe
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\bin\Debug\Client_Side.pdb
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\obj\Debug\Client_Side.Client.resources
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\obj\Debug\Client_Side.Properties.Resources.resources
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\obj\Debug\Client_Side.csproj.GenerateResource.cache
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\obj\Debug\Client_Side.csproj.CoreCompileInputs.cache
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\obj\Debug\Client_Side.exe
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\obj\Debug\Client_Side.pdb
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\bin\Debug\SimpleTcp.dll
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\bin\Debug\SimpleTcp.xml
+C:\Users\Ramyar\source\repos\socketporgraming\Client_Side\obj\Debug\Client_Side.csproj.CopyComplete
