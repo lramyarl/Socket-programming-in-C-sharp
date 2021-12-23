@@ -4,6 +4,7 @@ Hi every one we are going to create client server socket programming chat applic
 Run the followings in order:
 
 socketporgraming.exe
+
 Client_Side.exe
  
 
